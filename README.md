@@ -1,7 +1,8 @@
-### 👋👋 안녕하세요! 백엔드 개발자 소재훈입니다! 
-## 
+### ![header](https://capsule-render.vercel.app/api?type=slice)
+## 👋👋 안녕하세요! 백엔드 개발자 소재훈입니다! 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=merry9504)](https://solved.ac/merry9504/)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jay-so&show_icons=true&theme=radical)
 
 
 ## 🛠️ Skills
