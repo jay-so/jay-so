@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontSize=20&rotate=-30)
-## 👋👋 안녕하세요! 개발자 소재훈입니다! 
+## 👋👋 안녕하세요! 개발자 제이(Jay)입니다! 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jay-so&show_icons=true&theme=radical)
 
 ## 🛠️ Skills
