@@ -19,7 +19,7 @@
 
 ## 🧑🏻‍💻 Studying
 
-[개인 공부 기록 노션(Studying)](https://intelligent-gorilla-60c.notion.site/Repository-3c0a27289c3c4d0e9f8e258e08f1)
+[개인 공부 기록 노션(Studying)](https://intelligent-gorilla-60c.notion.site/Repository-3c0a27289c3c4d0e9f8e258e08f1f063)
 
 <br/>
 
