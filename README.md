@@ -27,6 +27,8 @@
 ## 🎤 발표 자료
 [API GateWay란 무엇일까?](https://sunny-soul-f6e.notion.site/API-7edd1d2865af4782af97e956f22e7814?pvs=4)
 
+[OSI 7계층과 TCP/IP 프로토콜 스택](https://cooing-partridge-8fa.notion.site/OSI-7-TCP-IP-f2d78c34fa974e23aaf3a4aa2a6a38f9?pvs=4)
+
 <br/>
 
 #### 👉🏻 Resilience4J 라이브러리, Bucket4J라이브러리, Gavana라이브러리, RateLimitJ라이브러리를 사용하지 않는 처리율 제한 알고리즘 구현
