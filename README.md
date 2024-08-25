@@ -29,6 +29,12 @@
 
 [OSI 7계층과 TCP/IP 프로토콜 스택](https://cooing-partridge-8fa.notion.site/OSI-7-TCP-IP-f2d78c34fa974e23aaf3a4aa2a6a38f9?pvs=4)
 
+[L4/L7 계층의 로드 밸런서와 방화벽 기초](https://cooing-partridge-8fa.notion.site/L4-L7-a99ae23ea0bf4546b26b2d3f9a6c2371?pvs=4)
+- [프록시란?](https://cooing-partridge-8fa.notion.site/67fb461ca20b4f0faba7e46f3a6f0269?pvs=4)
+- [웹 서버와 웹 어플리케이션 서버란?](https://cooing-partridge-8fa.notion.site/b36aaf2ae1974393b31777adbd280759?pvs=4)
+- [AWS의 NLB, ALB, ELB, CLB, GWLB란?](https://cooing-partridge-8fa.notion.site/AWS-NLB-ALB-ELB-CLB-GWLB-dc011ea962ae4a54965879b45c8994c3?pvs=4)
+- [L4/L7 계층의 방화벽의 주요 방식](https://cooing-partridge-8fa.notion.site/L4-L7-cb2867e2bc734173b5e254033751f099?pvs=4)
+
 <br/>
 
 #### 👉🏻 Resilience4J 라이브러리, Bucket4J라이브러리, Gavana라이브러리, RateLimitJ라이브러리를 사용하지 않는 처리율 제한 알고리즘 구현
