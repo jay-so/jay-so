@@ -24,6 +24,12 @@
 
 <br/>
 
+## 📋 이슈 답변
+[분산 컴퓨팅의 역할이란?](https://github.com/monthly-cs/2024-05-distributed-system/issues/3)
+
+
+<br/>
+
 ## 🎤 발표 자료
 [API GateWay란 무엇일까?](https://sunny-soul-f6e.notion.site/API-7edd1d2865af4782af97e956f22e7814?pvs=4)
 
