@@ -20,8 +20,6 @@
 ## 🧑🏻‍💻 Studying
 [스터디 기록](https://secret-slice-eef.notion.site/033b670c243349d8b0154c27cafd700c?pvs=4)
 
-[개인 공부 기록 노션(Studying)](https://intelligent-gorilla-60c.notion.site/Repository-3c0a27289c3c4d0e9f8e258e08f1f063)
-
 <br/>
 
 ## 📋 이슈 답변
