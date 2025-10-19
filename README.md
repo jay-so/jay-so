@@ -2,7 +2,7 @@
 
 - 세상의 다양한 문제를 해결하고 학습하는 것을 새로운 것을 학습하길 좋아합니다.😀 😀
 
-[기획자, 디자이너, 프론트분, 백엔드분들이 평가한 제이](https://zany-slip-80b.notion.site/BE-00ceb52e21364e1baf49f91c0ed4ecd0?pvs=4)
+[기획자, 디자이너, 프론트분, 백엔드분들이 평가한 제이](https://stitch-jump-8ac.notion.site/29159727463280afbcc3c6871f0c1169)
 
 <br/>
 
